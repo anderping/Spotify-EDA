@@ -1,7 +1,7 @@
 # Cómo triunfar en Spotify (sin gastar mucho dinero)
 ## ¿Tiene Spotify Influencia Directa En El Éxito De Las Canciones En Función De Sus Características?
 
-En este proyecto se ha realizado un análisis para determinar si ciertas características de las canciones influyen en su éxito en la plataforma Spotify. Se trabajó con un dataset extraído de Kaggle de 114000 canciones diferentes y se combinó con otros datos extraídos directamente de la API de Spotify, como la fecha de lanzamiento y el número de seguidores de los artistas. En un principio se trató de combinar con otro dataset también descargado de Kaggle pero debido al gran desbalance por géneros y falta de datos se descartó finalmente su uso.
+En este proyecto se ha realizado un análisis para determinar si ciertas características de las canciones influyen en su éxito en la plataforma Spotify. Se trabajó con un dataset descargado de Kaggle (el cual fue extraído de la API de Spotify) de 114000 canciones diferentes y se combinó con otros datos extraídos directamente de la API de Spotify, como la fecha de lanzamiento y el número de seguidores de los artistas. En un principio se trató de combinar con otro dataset también descargado de Kaggle pero debido al gran desbalance por géneros y falta de datos se descartó finalmente su uso.
 
 Se analizaron variables como género, duración, fecha de lanzamiento, contenido explícito, colaboraciones y estrategias de promoción, con el fin de encontrar una influencia y/o preferencia de Spotify en canciones según sus características.
 
