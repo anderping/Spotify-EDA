@@ -1,2 +1,6 @@
 .venv
-development tools
+.env
+__pycache__/
+popularity_dataset.csv
+SpotifyAudioFeaturesApril2019.csv
+SpotifyAudioFeaturesNov2018.csv
