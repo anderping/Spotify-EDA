@@ -1,3 +1,21 @@
+# Cómo triunfar en Spotify (sin gastar mucho dinero)
+## ¿Tiene Spotify Influencia Directa En El Éxito De Las Canciones En Función De Sus Características?
+
+En este proyecto se ha realizado un análisis para determinar si ciertas características de las canciones influyen en su éxito en la plataforma Spotify. Se trabajó con un dataset extraído de Kaggle de 114000 canciones diferentes y se combinó con otros datos extraídos directamente de la API de Spotify, como la fecha de lanzamiento y el número de seguidores de los artistas.
+
+Se analizaron variables como género, duración, fecha de lanzamiento, contenido explícito, colaboraciones y estrategias de promoción, con el fin de encontrar una influencia y/o preferencia de Spotify en canciones según sus características.
+
+También se analizaron ciertos aspectos de los lanzamientos de música en la plataforma con el fin de conocer las tendencias y sus razones, como las fechas típicas de lanzamiento y la duración de las canciones.
+
+Las hipótesis iniciales planteadas fueron las siguientes:
+- Spotify favorece canciones por sus características (energía, felicidad, danzabilidad).
+- El género determina el éxito por intervención de Spotify
+- El día y mes de lanzamiento influyen en el éxito de una canción
+- Las canciones más cortas suelen ser más populares
+- Las letras explícitas repercuten en el éxito de una canción
+- Lanzar un álbum con estrategia de singles es efectivo
+
+
 __La estructura que he seguido en el código es la siguiente:__
 
 El codigo sigue la siguiente estructura de carpetas dentro del directorio `'src'`:
@@ -31,7 +49,7 @@ El codigo sigue la siguiente estructura de carpetas dentro del directorio `'src'
         # macOS and Linux
         source .venv/bin/activate
 
-3. Si deseas realizar la ejecución completa del notebook, ejecuta el fichero 'dataset_download.py' para descargar los datasets:
+3. Si deseas realizar la ejecución completa del notebook, ejecuta el fichero `'dataset_download.py'` para descargar los datasets:
 
         py src/utils/dataset_download.py
 
