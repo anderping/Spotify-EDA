@@ -1,15 +1,15 @@
 # Cómo triunfar en Spotify (sin gastar mucho dinero)
 ## ¿Tiene Spotify Influencia Directa En El Éxito De Las Canciones En Función De Sus Características?
 
-En este proyecto se ha realizado un análisis para determinar si ciertas características de las canciones influyen en su éxito en la plataforma Spotify. Se trabajó con un dataset descargado de Kaggle (el cual fue extraído de la API de Spotify) de 114000 canciones diferentes y se combinó con otros datos extraídos directamente de la API de Spotify, como la fecha de lanzamiento y el número de seguidores de los artistas. En un principio se trató de combinar con otro dataset también descargado de Kaggle pero debido al gran desbalance por géneros y falta de datos se descartó finalmente su uso.
+En este proyecto se ha realizado un análisis para determinar si ciertas características de las canciones y sus lanzamientos influyen en su éxito en la plataforma Spotify, bien sea por intervención directa de la plataforma o por preferencias intrínsecas de los usuarios.  Se trabajó con un dataset descargado de Kaggle (el cual fue extraído de la API de Spotify) de 114000 canciones diferentes y se combinó con otros datos extraídos directamente de la API de Spotify, como la fecha de lanzamiento y el número de seguidores de los artistas. En un principio se trató de combinar con otro dataset también descargado de Kaggle pero debido al gran desbalance por géneros y falta de datos se descartó finalmente su uso.
 
 Se analizaron variables como género, duración, fecha de lanzamiento, contenido explícito, colaboraciones y estrategias de promoción, con el fin de encontrar una influencia y/o preferencia de Spotify en canciones según sus características.
 
 También se analizaron ciertos aspectos de los lanzamientos de música en la plataforma con el fin de conocer las tendencias y sus razones, como las fechas típicas de lanzamiento y la duración de las canciones.
 
 Las hipótesis iniciales planteadas fueron las siguientes:
-- Spotify favorece canciones por sus características (energía, felicidad, danzabilidad).
-- El género determina el éxito por intervención de Spotify
+- Spotify favorece canciones por sus características (energía, felicidad, danzabilidad...).
+- Spotify favorece ciertos géneros frente a otros
 - El día y mes de lanzamiento influyen en el éxito de una canción
 - Las canciones más cortas suelen ser más populares
 - Las letras explícitas repercuten en el éxito de una canción
